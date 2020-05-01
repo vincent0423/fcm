@@ -1,6 +1,0 @@
-hash: 74a1f70ce4d8672d808da4c7e128c7ab95d39913cae871f2782504e31d91f848
-updated: 2019-01-05T16:39:46.97724222+08:00
-imports:
-- name: github.com/mattn/go-xmpp
-  version: e543ad3fcd51155e4b39f7487bdfcb5e3772f1ce
-testImports: []
